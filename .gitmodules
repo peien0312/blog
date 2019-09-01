@@ -1,0 +1,3 @@
+[submodule "peiens-code-book/themes/minimo"]
+	path = peiens-code-book/themes/minimo
+	url = https://github.com/MunifTanjim/minimo
